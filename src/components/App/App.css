@@ -1,0 +1,40 @@
+.dt {
+    display: table;
+}
+
+.dtc {
+    display: table-cell;
+}
+
+.fw6 {
+    font-weight: 600;
+}
+
+.ffws {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.vh-100 {
+    height: 100vh;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.ph3 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.tc {
+    text-align: center;
+}
+
+.f6 {
+    font-size: .875rem;
+}
+
+.v-mid {
+    vertical-align: middle;
+}
